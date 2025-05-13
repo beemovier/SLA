@@ -1,5 +1,3 @@
-Claro! Vou explicar cada parte do código Python detalhadamente, de uma maneira acessível, para que você possa entender como tudo funciona, mesmo sem conhecimento prévio em programação.
-
 ### 1. **Importando Bibliotecas**
 
 ```python
